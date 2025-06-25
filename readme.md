@@ -1,1 +1,1 @@
-This Website is a restaurant Landing Page. Created in Reactjs.
+Link https://restgeritch.netlify.app/
